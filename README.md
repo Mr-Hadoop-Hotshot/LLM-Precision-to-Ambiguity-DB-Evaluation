@@ -1,6 +1,6 @@
 # LLM-Precision-to-Ambiguity-DB-Evaluation
 
-# Precision to Ambiguity: Evaluating Database Systems Across the Continuum of Query Complexity
+## Precision to Ambiguity: Evaluating Database Systems Across the Continuum of Query Complexity
 
 This research project benchmarks the performance of multiple database systems for quantitative, fuzzy, and hybrid queries using appliance metadata and customer reviews. It combines structured SQL queries with modern vector search and hybrid approaches, offering practical recommendations based on latency, execution time, scalability, and output quality.
 
